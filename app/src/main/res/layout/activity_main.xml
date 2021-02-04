@@ -140,7 +140,8 @@
                     android:layout_height="55dp"
                     android:layout_gravity="center"
                     android:background="@drawable/round_border"
-                    android:text="LOGING"
+                    android:fontFamily="@font/poppins_bold"
+                    android:text="LOGIN"
                     android:textColor="#ffffff"
                     android:textSize="22sp" />
 
@@ -157,9 +158,9 @@
                     android:layout_height="wrap_content"
                     android:fontFamily="sans-serif-medium"
                     android:gravity="center"
-                    android:text="FROGOT PASSWORD"
-                    android:textColor="@color/purple_200"
-                    android:textSize="18sp" />
+                    android:text="FORGOT PASSWORD?"
+                    android:textColor="#FE9064"
+                    android:textSize="16sp" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -216,13 +217,13 @@
                     <TextView
                         android:id="@+id/new_register"
                         android:layout_width="match_parent"
-                        android:layout_height="77dp"
-                        android:layout_marginTop="9dp"
-                        android:fontFamily="@font/poppins_bold"
+                        android:layout_height="111dp"
+                        android:layout_marginTop="20dp"
+                        android:fontFamily="sans-serif"
                         android:gravity="center_horizontal"
-                        android:text="New User Register Now"
-                        android:textColor="#B9BBBF"
-                        android:textSize="18sp" />
+                        android:text="Sign up"
+                        android:textColor="#35B4ED"
+                        android:textSize="14dp" />
                 </LinearLayout>
 
             </LinearLayout>
