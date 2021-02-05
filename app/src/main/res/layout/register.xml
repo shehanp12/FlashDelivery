@@ -64,7 +64,8 @@
           android:textColor="#020000"
           android:textColorHighlight="#D5EC8464"
           android:textColorHint="#DCD9D6"
-          android:textColorLink="#000000" />
+          android:textColorLink="#000000"
+          android:drawableLeft="@drawable/ic_baseline_how_to_reg_24" />
 
       <EditText
           android:id="@+id/editTextTextEmailAddress3"
@@ -81,7 +82,8 @@
           android:padding="10dp"
           android:textColor="#020000"
           android:textColorHighlight="#D5EC8464"
-          android:textColorHint="#DCD9D6" />
+          android:textColorHint="#DCD9D6"
+          android:drawableLeft="@drawable/ic_baseline_contact_mail_24" />
 
       <EditText
           android:id="@+id/editTextTextPassword6"
@@ -98,7 +100,8 @@
           android:padding="10dp"
           android:textColor="#020000"
           android:textColorHighlight="#D5EC8464"
-          android:textColorHint="#DCD9D6" />
+          android:textColorHint="#DCD9D6"
+          android:drawableLeft="@drawable/ic_baseline_lock_24" />
 
       <EditText
           android:id="@+id/editTextTextPassword7"
@@ -115,7 +118,8 @@
           android:padding="10dp"
           android:textColor="#020000"
           android:textColorHighlight="#D5EC8464"
-          android:textColorHint="#DCD9D6" />
+          android:textColorHint="#DCD9D6"
+          android:drawableLeft="@drawable/ic_baseline_lock_24" />
 
       <Button
           android:id="@+id/signup_button"
